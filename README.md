@@ -90,4 +90,4 @@ My LeetCode solutions, organized by topic.
 | 1020 | [Number of Enclaves](graphs/1020-number-of-enclaves.java) | Medium | graphs | Java |
 | 1071 | [Greatest Common Divisor of Strings](math/1071-greatest-common-divisor-of-strings.java) | Easy | math | Java |
 | 1482 | [Minimum Number of Days to Make m Bouquets](arrays/1482-minimum-number-of-days-to-make-m-bouquets.java) | Medium | arrays | Java |
-| 2251 | [Number of Flowers in Full Bloom](arrays/2251-number-of-flowers-in-full-bloom.java) | Hard | arrays | Java 
+| 2251 | [Number of Flowers in Full Bloom](arrays/2251-number-of-flowers-in-full-bloom.java) | Hard | arrays | Java |
